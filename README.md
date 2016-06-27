@@ -22,3 +22,7 @@ https://azure.microsoft.com/en-us/documentation/articles/app-service-api-dotnet-
 Getting Started with Azure SQL Database Elastic Scale - 30 minutes
 ------------------------------------------------------------------
 https://github.com/Azure-Readiness/HOL-Intro-to-Azure/tree/master/sql-database
+
+Design Patterns
+----------------
+https://msdn.microsoft.com/en-us/library/dn568099.aspx
